@@ -59,3 +59,6 @@ https://drive.google.com/file/d/1NaGmCbhOtCeNdzmu4EDZ-SNWYVM8s5ur/view?usp=drive
 19. Web integration:
 https://drive.google.com/file/d/1kjiK4G5od_G2_PTtQCZf9ZePCfa5Io8s/view?usp=drive_link
 
+20. Story:
+https://drive.google.com/file/d/1Rd4EtSC8q7HYrg0Ol8AgBfCDJWG8-uCD/view?usp=drive_link
+
